@@ -54,7 +54,9 @@ When starting to perform our analysis, we needed to begin by asking what we need
 
 The first question we would like the data to answer is: 
 
-- How many bike trips were recorded during the month of August? ![number_trips](images/number_trips.png)
+- How many bike trips were recorded during the month of August? 
+
+  ![number_trips](images/number_trips.png)
 
   We dragged the count of rides from trip data in the csv into the text box generating the total count of trips in August.
 
@@ -62,7 +64,9 @@ The first question we would like the data to answer is:
 
 As we look more into the data we discover more questions that we want answers for:
 
-- What Is the Proportion of Short-Term Customers versus Annual Subscribers?  ![costumer_types](images/costumer_types.png)
+- What Is the Proportion of Short-Term Customers versus Annual Subscribers?
+
+  ![costumer_types](images/costumer_types.png)
 
   We see the breakdown of rider types in New York City between Customers and Subscribers - the latter being the majority of rides. This will help us predict the customer breakdown in Des Moines and, in turn, propose a better business model to investors.
   
@@ -103,7 +107,9 @@ We continue to ask more questions of out Citi Bike data.
 
   
 
-- What is the correlation between age (measured in birth years) and trip duration? ![age_duration](images/age_duration.png)
+- What is the correlation between age (measured in birth years) and trip duration?
+  
+  ![age_duration](images/age_duration.png)
 
   Another datapoint that is illuminating is the age of the population, and how that affects bike usage, in our particular case. In this case, overall, it appears that the later the birth year, the longer the ride duration. The general trend is that younger riders tend to use the bikes for longer periods of time. 
 
