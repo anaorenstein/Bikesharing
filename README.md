@@ -54,7 +54,7 @@ When starting to perform our analysis, we needed to begin by asking what we need
 
 The first question we would like the data to answer is: 
 
-- How many bike trips were recorded during the month of August? ![number_trips](/Users/anabisker/Desktop/Data_Analytics_Bootcamp/14-Tableau/bikesharing/images/number_trips.png)
+- How many bike trips were recorded during the month of August? ![number_trips](images/number_trips.png)
 
   We dragged the count of rides from trip data in the csv into the text box generating the total count of trips in August.
 
@@ -62,7 +62,7 @@ The first question we would like the data to answer is:
 
 As we look more into the data we discover more questions that we want answers for:
 
-- What Is the Proportion of Short-Term Customers versus Annual Subscribers?  ![costumer_types](/Users/anabisker/Desktop/Data_Analytics_Bootcamp/14-Tableau/bikesharing/images/costumer_types.png)
+- What Is the Proportion of Short-Term Customers versus Annual Subscribers?  ![costumer_types](images/costumer_types.png)
 
   We see the breakdown of rider types in New York City between Customers and Subscribers - the latter being the majority of rides. This will help us predict the customer breakdown in Des Moines and, in turn, propose a better business model to investors.
   
@@ -71,7 +71,7 @@ We continue to ask more questions of out Citi Bike data.
 
 - What Are Peak Riding Hours in the Month of August? 
 
-  ![august_peak](/Users/anabisker/Desktop/Data_Analytics_Bootcamp/14-Tableau/bikesharing/images/august_peak.png)
+  ![august_peak](images/august_peak.png)
 
   The peak usage hours for the month of August is a key piece of data. This will help us get a better idea of how many bikes we might need in Des Moines, as well as figure out during which parts of the day we'll need the most bikes. For example, if we need to do maintenance on a bike, knowing the peak usage hours will help us plan for the best time to do that. This analysis will also help our investors get a ballpark estimate of how many bikes we might need in Des Moines. 
 
@@ -83,13 +83,13 @@ We continue to ask more questions of out Citi Bike data.
 
   - What Are the Top Bike Stations in the City for Starting a Journey?
 
-    ![top_starting](/Users/anabisker/Desktop/Data_Analytics_Bootcamp/14-Tableau/bikesharing/images/top_starting.png)
+    ![top_starting](images/top_starting.png)
 
     
 
   - What Are the Top Bike Stations for Ending a Journey?
 
-    ![top_ending](/Users/anabisker/Desktop/Data_Analytics_Bootcamp/14-Tableau/bikesharing/images/top_ending.png)
+    ![top_ending](images/top_ending.png)
 
     Understanding both when and where people use Citi Bike will help plan our pilot for the Downtown Des Moines bike-sharing program. On the map diagrams above we used circles of increasing sizes and darkening hues indicating a higher concentration ride counts. These images help us visualize the top locations where bike journeys begin and end amongst Citi Bike customers. We can see that the areas with higher concentration of tourists (Manhattan) show the highest number of rides.
 
@@ -97,13 +97,13 @@ We continue to ask more questions of out Citi Bike data.
 
 - What is the breakdown of gender amongst the bike riders?
 
-  ![gender_breakdown](/Users/anabisker/Desktop/Data_Analytics_Bootcamp/14-Tableau/bikesharing/images/gender_breakdown.png)
+  ![gender_breakdown](images/gender_breakdown.png)
 
   Some information about the population can tell us more about the riders themselves. Often, the first place we start when understanding a population is gender.
 
   
 
-- What is the correlation between age (measured in birth years) and trip duration? ![age_duration](/Users/anabisker/Desktop/Data_Analytics_Bootcamp/14-Tableau/bikesharing/images/age_duration.png)
+- What is the correlation between age (measured in birth years) and trip duration? ![age_duration](images/age_duration.png)
 
   Another datapoint that is illuminating is the age of the population, and how that affects bike usage, in our particular case. In this case, overall, it appears that the later the birth year, the longer the ride duration. The general trend is that younger riders tend to use the bikes for longer periods of time. 
 
@@ -117,7 +117,7 @@ On the Tableau story that we created, we put together some additional visualizat
 
 On this first dashboard we included two tables. The first table shows data distribution for general users. The second table shows users according to gender, and the breakdown of genders of the whole total rides.
 
-![duration_gender](/Users/anabisker/Desktop/Data_Analytics_Bootcamp/14-Tableau/bikesharing/images/duration_gender.png)
+![duration_gender](images/duration_gender.png)
 
 We can see what happens during the first three hours of bike rentals. On the first graph, the trip duration for all users, and on the second one, the duration according to gender. 
 
@@ -127,7 +127,7 @@ It seems that most trips last for less than ten minutes. When compared by gender
 
 In this visualization, we graphed the number of bike trips by weekday for each hour of the day.
 
-![flux_hour](/Users/anabisker/Desktop/Data_Analytics_Bootcamp/14-Tableau/bikesharing/images/flux_hour.png)
+![flux_hour](images/flux_hour.png)
 
 This heatmap shows the flux of start times of bike rentals  hour by hour, and the stoptimes per day of the week.
 
@@ -137,7 +137,7 @@ Trips that begin at 5pm will mostly happen on Mondays, Tuesdays and Thursdays - 
 
 In this visualization, we graphed the number of bike trips by gender for each hour of each day of the week.
 
-![flux_hour_gender](/Users/anabisker/Desktop/Data_Analytics_Bootcamp/14-Tableau/bikesharing/images/flux_hour_gender.png)
+![flux_hour_gender](images/flux_hour_gender.png)
 
 This heatmap shows the flux of bike rentals with start times hour by hour, with stoptimes throughout the week, separated by gender.
 
@@ -147,7 +147,7 @@ The general pattern in this heat map follow the ones seen in the previous heat m
 
 In this visualization, we created a heat map that shows the number of bike trips broken down by gender for each day of the week by Usertype.
 
-![flux_usertype](/Users/anabisker/Desktop/Data_Analytics_Bootcamp/14-Tableau/bikesharing/images/flux_usertype.png)
+![flux_usertype](images/flux_usertype.png)
 
 This heat map is our last visualization with Citi Bike data. It shows the flux of  start times of bike rentals per weekday, dividing  users in two groups - customers and subscribers - and categorizing  by gender. 
 
@@ -169,7 +169,7 @@ Arriving at the culmination of this stage of the project, we believe that we can
 
 Moving on, exploring the unique characteristics Des Moines, Iowa will start becoming our main focus. This is a collage of some ideas and suggestions of where to begin:
 
-![des_moines](/Users/anabisker/Desktop/Data_Analytics_Bootcamp/14-Tableau/bikesharing/images/des_moines.png)
+![des_moines](images/des_moines.png)
 
 There is more analytic work to be done as well, down the road, as we continue to fine-tune our efforts toward bringing investors on board.
 
