@@ -1,6 +1,6 @@
 # Bike-sharing in Des Moines
 
-View this project on [Tableau](https://public.tableau.com/app/profile/ana.bisker).
+View the storyboard of this project on [Tableau](https://public.tableau.com/app/profile/ana.bisker/viz/Bikeshare_Challenge_16511674447930/BikesharingAnalysis).
 
 ## Overview
 
