@@ -38,12 +38,11 @@ This data includes the following fields:
 
 ##### Data Analysis
 
-Using Tableau, we created clean and accessible visualizations of different sorts that provided insight from multiple angles into our data. Altogether, we built a compelling 'slide-show' - or Story, as it is called on Tableau.
+Using Tableau, we created clean and accessible visualizations of different sorts that provided insight from multiple angles into our data. Altogether, we built a compelling Storyboard on Tableau.
 
 Use the link below to view *Bikeshare_Challenge* in our Tableau Public Profile:
 
-https://public.tableau.com/app/profile/ana.bisker
-
+https://public.tableau.com/app/profile/ana.bisker/viz/Bikeshare_Challenge_16511674447930/BikesharingAnalysis
 
 
 ## Results
